@@ -27,9 +27,6 @@ This Power BI project provides an interactive dashboard to analyze customer chur
 - DAX
 - Data modeling and transformation
 
-## 📸 Screenshot
-_Add a screenshot of your Power BI dashboard here (optional)_
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
